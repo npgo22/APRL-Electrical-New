@@ -6621,10 +6621,6 @@
 		(uuid "60c1699e-07ff-42c7-b87f-d7d7f1d4c399")
 	)
 	(no_connect
-		(at 82.55 114.3)
-		(uuid "6206c061-4b5c-432f-a66b-36f8680b2332")
-	)
-	(no_connect
 		(at 82.55 109.22)
 		(uuid "75c6e7f2-e9dc-49db-9551-228d25d3a396")
 	)
@@ -6639,6 +6635,10 @@
 	(no_connect
 		(at 133.35 76.2)
 		(uuid "aa5dcd07-85f8-40d1-9501-f52f7b90e170")
+	)
+	(no_connect
+		(at 133.35 66.04)
+		(uuid "b2e7de01-0a3f-4f02-994a-68a1a56c7a69")
 	)
 	(no_connect
 		(at 82.55 93.98)
@@ -6705,16 +6705,6 @@
 			(type default)
 		)
 		(uuid "0480dd3f-7f9f-45df-8719-bdf26f40a0ab")
-	)
-	(wire
-		(pts
-			(xy 148.59 68.58) (xy 133.35 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04e09f71-2fde-45b8-8868-ff7af373711a")
 	)
 	(wire
 		(pts
@@ -7035,6 +7025,16 @@
 			(type default)
 		)
 		(uuid "234de460-afc7-4523-8b6f-35a8ca5d41a3")
+	)
+	(wire
+		(pts
+			(xy 133.35 68.58) (xy 147.32 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2548ac37-1610-4d00-ad21-6dde7ad99b38")
 	)
 	(wire
 		(pts
@@ -7435,6 +7435,16 @@
 			(type default)
 		)
 		(uuid "57854693-2e0c-4a3f-8a40-d9c61c32f2fe")
+	)
+	(wire
+		(pts
+			(xy 71.12 114.3) (xy 82.55 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5856cbcc-737d-4a9d-ab8f-88d77c3d691d")
 	)
 	(wire
 		(pts
@@ -7925,16 +7935,6 @@
 			(type default)
 		)
 		(uuid "8f6c6ff8-aa3a-462e-bbde-bc97888ff4ca")
-	)
-	(wire
-		(pts
-			(xy 147.32 66.04) (xy 133.35 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "905537b7-150c-4cf3-8883-21b37b20cfb4")
 	)
 	(wire
 		(pts
@@ -9036,6 +9036,16 @@
 		)
 		(uuid "071b2bca-c8d6-4159-a997-8b0b8c42a8d8")
 	)
+	(label "PA5"
+		(at 147.32 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0b2b04af-a67a-4aff-b092-67b4cd92e120")
+	)
 	(label "PB13"
 		(at 147.32 132.08 180)
 		(effects
@@ -9065,16 +9075,6 @@
 			(justify right bottom)
 		)
 		(uuid "0e60e970-60cb-4fdd-b1b5-a664069974e9")
-	)
-	(label "PC12"
-		(at 68.58 116.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1a46d547-f396-46eb-9f17-c5594d7b33c2")
 	)
 	(label "PB0"
 		(at 147.32 99.06 180)
@@ -9216,16 +9216,6 @@
 		)
 		(uuid "7e586b49-5b4f-40ab-b0de-6f172f85585e")
 	)
-	(label "PA4"
-		(at 191.77 124.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "80832a96-2958-4bda-b47f-fbd7098c1581")
-	)
 	(label "I2C1_SCL"
 		(at 237.49 114.3 0)
 		(effects
@@ -9306,6 +9296,16 @@
 		)
 		(uuid "b717bcfd-4601-4923-a32a-a08d87d8a76c")
 	)
+	(label "PC11"
+		(at 71.12 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bb088204-559f-4af9-95ce-40327030219c")
+	)
 	(label "PB2"
 		(at 147.32 104.14 180)
 		(effects
@@ -9316,17 +9316,7 @@
 		)
 		(uuid "bc6416ac-fce2-49e1-b378-6747b06187c3")
 	)
-	(label "PA4"
-		(at 147.32 66.04 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c3d02af2-cf79-4d43-a7bc-55ce88079cb0")
-	)
-	(label "PC12"
+	(label "PC11"
 		(at 237.49 127 0)
 		(effects
 			(font
@@ -9335,6 +9325,16 @@
 			(justify left bottom)
 		)
 		(uuid "c536b997-0bd4-4f97-a86d-518b1d85c93c")
+	)
+	(label "PA5"
+		(at 191.77 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da6f52c7-fe10-4d64-8fea-5f48a778667e")
 	)
 	(label "SWCLK"
 		(at 137.16 38.1 0)
@@ -9474,17 +9474,6 @@
 		)
 		(uuid "4d8cf3e7-3ac5-4920-b78b-a00b7a27fd73")
 	)
-	(hierarchical_label "ADC_DRDY"
-		(shape input)
-		(at 148.59 106.68 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4f66bcae-7d75-4c09-b515-2e987b9e9213")
-	)
 	(hierarchical_label "ADC_START"
 		(shape output)
 		(at 236.22 101.6 180)
@@ -9531,7 +9520,7 @@
 	)
 	(hierarchical_label "ADC_SCLK"
 		(shape output)
-		(at 148.59 68.58 0)
+		(at 148.59 106.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9539,6 +9528,17 @@
 			(justify left)
 		)
 		(uuid "7442aed8-2c86-485d-a4ae-43795834074c")
+	)
+	(hierarchical_label "ADC_DRDY"
+		(shape input)
+		(at 68.58 116.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7d6f84b3-3c88-4d77-aebf-6e120a2fd363")
 	)
 	(hierarchical_label "FDCAN_RX"
 		(shape input)
@@ -16466,7 +16466,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_MSTB:PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange_MountHole"
+		(property "Footprint" "APRL_Connector:PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange_MountHole"
 			(at 36.83 170.18 0)
 			(hide yes)
 			(show_name no)

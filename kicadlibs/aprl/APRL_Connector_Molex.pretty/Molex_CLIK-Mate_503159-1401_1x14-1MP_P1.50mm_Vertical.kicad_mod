@@ -390,6 +390,7 @@
 		(size 0.889 0.889)
 		(drill 0.889)
 		(layers "*.Cu" "*.Mask")
+		(clearance 0.8)
 		(uuid "caf2172f-a588-4bf2-9a8d-d57c9462413f")
 	)
 	(embedded_fonts no)

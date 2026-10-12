@@ -262,6 +262,7 @@
 		(size 1.1938 1.1938)
 		(drill 1.1938)
 		(layers "*.Cu" "*.Mask")
+		(clearance 0.8)
 		(uuid "cece4ba7-2152-456d-bec8-a8ff8d3bfd64")
 	)
 	(pad "" np_thru_hole circle
@@ -269,6 +270,7 @@
 		(size 1.1938 1.1938)
 		(drill 1.1938)
 		(layers "*.Cu" "*.Mask")
+		(clearance 0.8)
 		(uuid "20dee689-1e0f-40b5-9ef5-81ad8d44769d")
 	)
 	(embedded_fonts no)

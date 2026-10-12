@@ -152,6 +152,7 @@
 		(size 2.4 2.4)
 		(drill 2.4)
 		(layers "*.Cu" "*.Mask")
+		(clearance 0.8)
 		(uuid "8533b741-a474-4f20-8466-e127592ea0bd")
 	)
 	(pad "1" thru_hole circle

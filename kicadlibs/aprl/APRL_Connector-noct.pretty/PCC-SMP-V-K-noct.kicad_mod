@@ -150,6 +150,7 @@
 		(size 1.778 1.778)
 		(drill 1.778)
 		(layers "*.Cu" "*.Mask")
+		(clearance 0.8)
 		(uuid "9db457a4-2438-4ea8-ad86-247764bedbe1")
 	)
 	(pad "" np_thru_hole circle
@@ -157,6 +158,7 @@
 		(size 1.778 1.778)
 		(drill 1.778)
 		(layers "*.Cu" "*.Mask")
+		(clearance 0.8)
 		(uuid "c2e9c0b9-2517-4688-8bc6-ce536e39380d")
 	)
 	(pad "1" thru_hole circle

@@ -49,6 +49,7 @@
 			)
 		)
 	)
+	(zone_connect 2)
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_circle

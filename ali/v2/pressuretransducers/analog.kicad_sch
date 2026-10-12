@@ -4891,7 +4891,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "10nF"
 			(at 69.85 59.6835 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4935,7 +4935,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1885C1H102FA01"
+		(property "MPN" "GRM1885C1H103JA01"
 			(at 67.31 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -5269,7 +5269,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "10nF"
 			(at 69.85 161.2835 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5313,7 +5313,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1885C1H102FA01"
+		(property "MPN" "GRM1885C1H103JA01"
 			(at 67.31 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -6437,7 +6437,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "10nF"
 			(at 69.85 179.0635 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6481,7 +6481,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1885C1H102FA01"
+		(property "MPN" "GRM1885C1H103JA01"
 			(at 67.31 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -6816,7 +6816,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "10nF"
 			(at 69.85 137.1535 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6860,7 +6860,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1885C1H102FA01"
+		(property "MPN" "GRM1885C1H103JA01"
 			(at 67.31 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -7327,7 +7327,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "10nF"
 			(at 69.85 77.4635 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7371,7 +7371,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1885C1H102FA01"
+		(property "MPN" "GRM1885C1H103JA01"
 			(at 67.31 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -8091,7 +8091,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "10nF"
 			(at 69.85 95.2435 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8135,7 +8135,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1885C1H102FA01"
+		(property "MPN" "GRM1885C1H103JA01"
 			(at 67.31 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -8199,7 +8199,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "10nF"
 			(at 69.85 41.9035 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8243,7 +8243,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1885C1H102FA01"
+		(property "MPN" "GRM1885C1H103JA01"
 			(at 67.31 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10563,7 +10563,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "10nF"
 			(at 69.85 119.3735 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10607,7 +10607,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1885C1H102FA01"
+		(property "MPN" "GRM1885C1H103JA01"
 			(at 67.31 118.11 0)
 			(hide yes)
 			(show_name no)

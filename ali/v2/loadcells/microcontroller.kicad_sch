@@ -10329,7 +10329,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-075K1L"
+		(property "MPN" "AC0603FR-075K1L"
 			(at 214.63 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -10736,7 +10736,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 35.56 119.38 90)
 			(hide yes)
 			(show_name no)
@@ -10941,7 +10941,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "XDFH-0254-2*9P"
 			(at 207.01 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -10952,7 +10952,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" ""
+		(property "MANUFACTURER" "Lian Xin Technology"
 			(at 207.01 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -12608,7 +12608,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 35.56 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -13528,7 +13528,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 182.88 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -13747,7 +13747,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 173.99 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -14378,7 +14378,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-075K1L"
+		(property "MPN" "AC0603FR-075K1L"
 			(at 218.44 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -16061,7 +16061,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "Didoes Inc."
+		(property "MANUFACTURER" "Diodes Inc."
 			(at 95.25 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -16602,7 +16602,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 35.56 114.3 90)
 			(hide yes)
 			(show_name no)

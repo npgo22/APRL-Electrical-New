@@ -5900,7 +5900,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "AC0603FR-07330RL"
 			(at 144.78 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6450,7 +6450,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "AC0603FR-07330RL"
 			(at 157.48 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6553,7 +6553,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0747RL"
+		(property "MPN" "AC0603FR-0747RL"
 			(at 100.33 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -6732,7 +6732,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 53.34 85.09 90)
 			(hide yes)
 			(show_name no)
@@ -7648,7 +7648,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0747RL"
+		(property "MPN" "AC0603FR-0747RL"
 			(at 129.54 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -8326,7 +8326,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0747RL"
+		(property "MPN" "AC0603FR-0747RL"
 			(at 109.22 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -8936,7 +8936,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 99.06 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -9542,7 +9542,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071K5L"
+		(property "MPN" "AC0603FR-071K5L"
 			(at 43.18 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -10010,7 +10010,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0747RL"
+		(property "MPN" "AC0603FR-0747RL"
 			(at 119.38 68.58 0)
 			(hide yes)
 			(show_name no)

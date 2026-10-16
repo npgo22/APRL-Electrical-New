@@ -6123,7 +6123,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1885C1H120JA01"
+		(property "MPN" "C0603C120J5GACTU"
 			(at 223.52 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -6134,7 +6134,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "Murata"
+		(property "MANUFACTURER" "KEMET"
 			(at 223.52 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -7368,7 +7368,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "RESI"
+		(property "MANUFACTURER" "Panasonic"
 			(at 93.98 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -7856,7 +7856,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1885C1H120JA01"
+		(property "MPN" "C0603C120J5GACTU"
 			(at 238.76 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -7867,7 +7867,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "Murata"
+		(property "MANUFACTURER" "KEMET"
 			(at 238.76 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -8155,7 +8155,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "RESI"
+		(property "MANUFACTURER" "Panasonic"
 			(at 93.98 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9109,7 +9109,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "RESI"
+		(property "MANUFACTURER" "Panasonic"
 			(at 93.98 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -10606,7 +10606,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "RESI"
+		(property "MANUFACTURER" "Panasonic"
 			(at 93.98 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -10714,7 +10714,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "RESI"
+		(property "MANUFACTURER" "Panasonic"
 			(at 93.98 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -12240,7 +12240,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "RESI"
+		(property "MANUFACTURER" "Panasonic"
 			(at 93.98 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -13954,7 +13954,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "RESI"
+		(property "MANUFACTURER" "Panasonic"
 			(at 93.98 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -14062,7 +14062,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "RESI"
+		(property "MANUFACTURER" "Panasonic"
 			(at 93.98 76.2 0)
 			(hide yes)
 			(show_name no)

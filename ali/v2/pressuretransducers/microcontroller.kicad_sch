@@ -10573,7 +10573,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-075K1L"
+		(property "MPN" "AC0603FR-075K1L"
 			(at 214.63 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -11161,7 +11161,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 38.1 121.92 90)
 			(hide yes)
 			(show_name no)
@@ -12738,7 +12738,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 38.1 111.76 90)
 			(hide yes)
 			(show_name no)
@@ -13580,7 +13580,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 184.15 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -13799,7 +13799,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 175.26 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -14352,7 +14352,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-075K1L"
+		(property "MPN" "AC0603FR-075K1L"
 			(at 218.44 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -15001,7 +15001,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "XDFH-0254-2*9P"
 			(at 208.28 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -15012,7 +15012,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" ""
+		(property "MANUFACTURER" "Lian Xin Technology"
 			(at 208.28 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -17130,7 +17130,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 38.1 116.84 90)
 			(hide yes)
 			(show_name no)

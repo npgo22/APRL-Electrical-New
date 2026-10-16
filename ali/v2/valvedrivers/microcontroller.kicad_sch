@@ -9153,7 +9153,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 217.17 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -9257,7 +9257,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 251.46 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -9464,7 +9464,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 241.3 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -10078,7 +10078,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-075K1L"
+		(property "MPN" "AC0603FR-075K1L"
 			(at 215.9 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -10832,7 +10832,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 41.91 121.92 90)
 			(hide yes)
 			(show_name no)
@@ -12918,7 +12918,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 41.91 111.76 90)
 			(hide yes)
 			(show_name no)
@@ -14323,7 +14323,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-075K1L"
+		(property "MPN" "AC0603FR-075K1L"
 			(at 219.71 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -15504,7 +15504,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "MPN" "AC0603FR-07100KL"
 			(at 229.87 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -16072,7 +16072,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 241.3 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -16655,7 +16655,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "Didoes Inc."
+		(property "MANUFACTURER" "Diodes Inc."
 			(at 91.44 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -16992,7 +16992,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 217.17 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -17182,7 +17182,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 191.77 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -17559,7 +17559,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 41.91 116.84 90)
 			(hide yes)
 			(show_name no)

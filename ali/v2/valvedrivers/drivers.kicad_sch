@@ -5370,7 +5370,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 116.84 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -5840,7 +5840,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 180.34 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5944,7 +5944,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 107.95 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -6048,7 +6048,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 125.73 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -6428,7 +6428,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "Yageo"
+		(property "MANUFACTURER" "KEMET"
 			(at 190.5 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -6621,7 +6621,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 99.06 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -6714,7 +6714,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "Yageo"
+		(property "MANUFACTURER" "KEMET"
 			(at 190.5 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7490,7 +7490,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 162.56 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7698,7 +7698,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 171.45 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7959,7 +7959,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 116.84 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -8141,7 +8141,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 153.67 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -8323,7 +8323,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 99.06 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -8506,7 +8506,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 107.95 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -9390,7 +9390,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 162.56 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -9573,7 +9573,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 153.67 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9860,7 +9860,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 171.45 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -10383,7 +10383,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 125.73 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -10487,7 +10487,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 180.34 102.87 0)
 			(hide yes)
 			(show_name no)

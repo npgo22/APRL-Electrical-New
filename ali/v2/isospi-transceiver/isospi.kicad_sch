@@ -5610,6 +5610,28 @@
 				)
 			)
 		)
+		(property "MPN" "503159-0601"
+			(at 257.81 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Molex"
+			(at 257.81 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "f9b91950-2626-4c76-913b-0304098ffbbf")
 		)
@@ -5965,7 +5987,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "AC0603FR-07100KL"
 			(at 120.65 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -7683,6 +7705,28 @@
 				)
 			)
 		)
+		(property "MPN" "HX1188NLT"
+			(at 218.44 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Pulse Electronics"
+			(at 218.44 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "12"
 			(uuid "e2554a1d-6546-46b5-a81d-fcc41b4240e9")
 		)
@@ -7798,6 +7842,28 @@
 			)
 		)
 		(property "Description" "Dual independent isoSPI transceiver, SPI to 2-wire isolated interface, 32-lead LFCSP_SS 5x5mm"
+			(at 100.33 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ADBMS6822CCSZ"
+			(at 100.33 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Analog Devices"
 			(at 100.33 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -8062,7 +8128,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "AC0603FR-07100RL"
 			(at 165.1 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -8260,6 +8326,28 @@
 			)
 		)
 		(property "Description" "Dual independent isoSPI transceiver, SPI to 2-wire isolated interface, 32-lead LFCSP_SS 5x5mm"
+			(at 100.33 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ADBMS6822CCSZ"
+			(at 100.33 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Analog Devices"
 			(at 100.33 115.57 0)
 			(hide yes)
 			(show_name no)

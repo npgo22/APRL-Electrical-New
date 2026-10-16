@@ -240,7 +240,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -993,7 +993,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "AC0603FR-07330RL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1780,7 +1780,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0747RL"
+		(property "MPN" "AC0603FR-0747RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2074,7 +2074,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2221,7 +2221,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3408,7 +3408,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-075K1L"
+		(property "MPN" "AC0603FR-075K1L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3849,7 +3849,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0747RL"
+		(property "MPN" "AC0603FR-0747RL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5611,7 +5611,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5758,7 +5758,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7521,7 +7521,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "AC0603FR-07330RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8192,7 +8192,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0747RL"
+		(property "MPN" "AC0603FR-0747RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9978,7 +9978,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0747RL"
+		(property "MPN" "AC0603FR-0747RL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11801,7 +11801,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-075K1L"
+		(property "MPN" "AC0603FR-075K1L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12095,7 +12095,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13206,7 +13206,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "RC0603FR-071K5L"
+		(property "MPN" "AC0603FR-071K5L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14746,7 +14746,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")

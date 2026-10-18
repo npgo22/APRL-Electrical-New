@@ -1520,7 +1520,7 @@
 		(uuid "270e65cf-7229-4d1b-9d61-04f20b0910e5")
 	)
 	(junction
-		(at 160.02 173.99)
+		(at 158.75 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ada6d1b-9ef9-47fc-a2c4-6ebf23029945")
@@ -1676,7 +1676,7 @@
 		(uuid "d6b519dd-1d6c-44f6-854c-e6cfb14cf700")
 	)
 	(junction
-		(at 158.75 173.99)
+		(at 157.48 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ddb4205a-6e08-44d0-9e10-078bf2f1a456")
@@ -1688,7 +1688,7 @@
 		(uuid "de0f7bee-142c-4a73-9aab-471082e4e0a8")
 	)
 	(junction
-		(at 158.75 166.37)
+		(at 157.48 161.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e0629857-b295-4cae-aedd-9813ab24acd9")
@@ -1706,7 +1706,7 @@
 		(uuid "ed845a82-b470-4874-9906-7ca1e531fc80")
 	)
 	(junction
-		(at 160.02 166.37)
+		(at 158.75 161.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f3381764-4ea8-41ac-9fa2-2f06a9016ae4")
@@ -1799,7 +1799,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 166.37) (xy 148.59 166.37)
+			(xy 142.24 161.29) (xy 147.32 161.29)
 		)
 		(stroke
 			(width 0)
@@ -1859,7 +1859,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 173.99) (xy 160.02 173.99)
+			(xy 176.53 168.91) (xy 158.75 168.91)
 		)
 		(stroke
 			(width 0)
@@ -1979,7 +1979,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 166.37) (xy 158.75 166.37)
+			(xy 152.4 161.29) (xy 157.48 161.29)
 		)
 		(stroke
 			(width 0)
@@ -2029,7 +2029,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 173.99) (xy 158.75 173.99)
+			(xy 158.75 168.91) (xy 157.48 168.91)
 		)
 		(stroke
 			(width 0)
@@ -2069,7 +2069,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 173.99) (xy 160.02 172.72)
+			(xy 158.75 168.91) (xy 158.75 167.64)
 		)
 		(stroke
 			(width 0)
@@ -2319,7 +2319,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 166.37) (xy 158.75 166.37)
+			(xy 158.75 161.29) (xy 157.48 161.29)
 		)
 		(stroke
 			(width 0)
@@ -2379,7 +2379,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 180.34) (xy 158.75 181.61)
+			(xy 157.48 175.26) (xy 157.48 176.53)
 		)
 		(stroke
 			(width 0)
@@ -2739,7 +2739,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 165.1) (xy 158.75 166.37)
+			(xy 157.48 160.02) (xy 157.48 161.29)
 		)
 		(stroke
 			(width 0)
@@ -2759,7 +2759,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 173.99) (xy 158.75 175.26)
+			(xy 157.48 168.91) (xy 157.48 170.18)
 		)
 		(stroke
 			(width 0)
@@ -2909,7 +2909,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 166.37) (xy 173.99 166.37)
+			(xy 158.75 161.29) (xy 173.99 161.29)
 		)
 		(stroke
 			(width 0)
@@ -2999,7 +2999,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 135.89) (xy 176.53 173.99)
+			(xy 176.53 135.89) (xy 176.53 168.91)
 		)
 		(stroke
 			(width 0)
@@ -3089,7 +3089,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 163.83) (xy 143.51 166.37)
+			(xy 142.24 158.75) (xy 142.24 161.29)
 		)
 		(stroke
 			(width 0)
@@ -3099,7 +3099,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 156.21) (xy 162.56 154.94)
+			(xy 161.29 151.13) (xy 161.29 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3239,7 +3239,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 154.94) (xy 158.75 154.94)
+			(xy 161.29 149.86) (xy 157.48 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3419,7 +3419,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 166.37) (xy 173.99 133.35)
+			(xy 173.99 161.29) (xy 173.99 133.35)
 		)
 		(stroke
 			(width 0)
@@ -3469,7 +3469,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 176.53) (xy 143.51 173.99)
+			(xy 142.24 171.45) (xy 142.24 168.91)
 		)
 		(stroke
 			(width 0)
@@ -3569,7 +3569,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 166.37) (xy 160.02 167.64)
+			(xy 158.75 161.29) (xy 158.75 162.56)
 		)
 		(stroke
 			(width 0)
@@ -3579,7 +3579,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 154.94) (xy 158.75 160.02)
+			(xy 157.48 149.86) (xy 157.48 154.94)
 		)
 		(stroke
 			(width 0)
@@ -3679,7 +3679,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 173.99) (xy 158.75 173.99)
+			(xy 152.4 168.91) (xy 157.48 168.91)
 		)
 		(stroke
 			(width 0)
@@ -4009,7 +4009,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 173.99) (xy 148.59 173.99)
+			(xy 142.24 168.91) (xy 147.32 168.91)
 		)
 		(stroke
 			(width 0)
@@ -4285,25 +4285,25 @@
 		(fields_autoplaced yes)
 		(uuid "04c91069-e8f9-4361-85e2-d5fef9d030e1")
 		(property "Reference" "C38"
-			(at 119.38 82.5435 0)
+			(at 119.38 82.5499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1nF"
-			(at 119.38 85.0835 0)
+			(at 119.38 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
@@ -4389,25 +4389,25 @@
 		(fields_autoplaced yes)
 		(uuid "05afabd8-8e5f-45ab-bcb6-7f658c8ca278")
 		(property "Reference" "C34"
-			(at 67.31 87.6235 0)
+			(at 67.31 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1nF"
-			(at 67.31 90.1635 0)
+			(at 67.31 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
@@ -4882,25 +4882,25 @@
 		(fields_autoplaced yes)
 		(uuid "133b10aa-96dc-410f-aea0-d3f8b2f0c081")
 		(property "Reference" "C37"
-			(at 119.38 67.3035 0)
+			(at 119.38 67.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1nF"
-			(at 119.38 69.8435 0)
+			(at 119.38 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
@@ -5064,28 +5064,28 @@
 		(fields_autoplaced yes)
 		(uuid "1c98d794-0299-4fe1-b5cb-8c64bc580d58")
 		(property "Reference" "C55"
-			(at 120.65 118.1035 0)
+			(at 120.65 118.1099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "10nF"
-			(at 120.65 120.6435 0)
+			(at 120.65 120.6499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
+		(property "Footprint" "APRL_Passive:C_1206"
 			(at 118.11 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5157,7 +5157,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 162.56 156.21 0)
+		(at 161.29 151.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5168,7 +5168,7 @@
 		(fields_autoplaced yes)
 		(uuid "1f3ea9d3-d909-4c7e-86db-28cedce4f2db")
 		(property "Reference" "#PWR074"
-			(at 162.56 162.56 0)
+			(at 161.29 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5179,7 +5179,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 162.56 161.29 0)
+			(at 161.29 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5190,7 +5190,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 156.21 0)
+			(at 161.29 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5201,7 +5201,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 156.21 0)
+			(at 161.29 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5212,7 +5212,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 162.56 156.21 0)
+			(at 161.29 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5449,7 +5449,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 158.75 177.8 180)
+		(at 157.48 172.72 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5460,7 +5460,7 @@
 		(fields_autoplaced yes)
 		(uuid "29b60e81-5bbc-4f22-a28a-5fcb66d25c0a")
 		(property "Reference" "C49"
-			(at 161.29 176.5235 0)
+			(at 160.02 171.4435 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5471,7 +5471,7 @@
 			)
 		)
 		(property "Value" "1nF"
-			(at 161.29 179.0635 0)
+			(at 160.02 173.9835 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5482,7 +5482,7 @@
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
-			(at 158.75 177.8 0)
+			(at 157.48 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5493,7 +5493,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 177.8 0)
+			(at 157.48 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5504,7 +5504,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 158.75 177.8 0)
+			(at 157.48 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5515,7 +5515,7 @@
 			)
 		)
 		(property "MPN" "GRM1885C1H102FA01"
-			(at 158.75 177.8 0)
+			(at 157.48 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5526,7 +5526,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Murata"
-			(at 158.75 177.8 0)
+			(at 157.48 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5553,7 +5553,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 151.13 173.99 90)
+		(at 149.86 168.91 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5563,7 +5563,7 @@
 		(dnp no)
 		(uuid "31a6421c-3c6e-4abc-b6d8-28c3c1a574e6")
 		(property "Reference" "R31"
-			(at 145.288 172.72 90)
+			(at 144.018 167.64 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5574,7 +5574,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 153.162 172.466 90)
+			(at 151.892 167.386 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5585,7 +5585,7 @@
 			)
 		)
 		(property "Footprint" "APRL_Passive:R_0603"
-			(at 151.13 173.99 0)
+			(at 149.86 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5596,7 +5596,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 173.99 0)
+			(at 149.86 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5607,7 +5607,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 151.13 173.99 0)
+			(at 149.86 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5618,7 +5618,7 @@
 			)
 		)
 		(property "MPN" "RT0603BRD074K7L"
-			(at 151.13 173.99 90)
+			(at 149.86 168.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5629,7 +5629,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Yageo"
-			(at 151.13 173.99 90)
+			(at 149.86 168.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5656,7 +5656,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 143.51 176.53 0)
+		(at 142.24 171.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5667,7 +5667,7 @@
 		(fields_autoplaced yes)
 		(uuid "36a5b225-4f2b-4432-8032-ddbc155f1810")
 		(property "Reference" "#PWR078"
-			(at 143.51 182.88 0)
+			(at 142.24 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5678,7 +5678,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 143.51 181.61 0)
+			(at 142.24 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5689,7 +5689,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 176.53 0)
+			(at 142.24 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5700,7 +5700,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 176.53 0)
+			(at 142.24 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5711,7 +5711,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 143.51 176.53 0)
+			(at 142.24 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6037,25 +6037,25 @@
 		(fields_autoplaced yes)
 		(uuid "4be897cd-5c14-447a-afd9-8c5d6b1bc523")
 		(property "Reference" "C36"
-			(at 67.31 102.8635 0)
+			(at 67.31 102.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1nF"
-			(at 67.31 105.4035 0)
+			(at 67.31 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
@@ -6845,25 +6845,25 @@
 		(fields_autoplaced yes)
 		(uuid "6d2ce93a-663e-4f8d-b192-5b8dd5c3e13e")
 		(property "Reference" "C46"
-			(at 119.38 41.9035 0)
+			(at 119.38 41.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1nF"
-			(at 119.38 44.4435 0)
+			(at 119.38 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
@@ -7162,25 +7162,25 @@
 		(fields_autoplaced yes)
 		(uuid "7676b28d-c3ab-4ed8-b5cc-64eedb10004d")
 		(property "Reference" "C43"
-			(at 67.31 60.9535 0)
+			(at 67.31 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1nF"
-			(at 67.31 63.4935 0)
+			(at 67.31 63.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
@@ -7266,25 +7266,25 @@
 		(fields_autoplaced yes)
 		(uuid "78c8db44-7b75-44e1-901c-5676805dc8de")
 		(property "Reference" "C53"
-			(at 67.31 133.3435 0)
+			(at 67.31 133.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1nF"
-			(at 67.31 135.8835 0)
+			(at 67.31 135.8899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
@@ -7632,28 +7632,28 @@
 		(fields_autoplaced yes)
 		(uuid "81b62fd2-f673-49da-b68b-0de45b0dd25e")
 		(property "Reference" "C44"
-			(at 68.58 53.3335 0)
+			(at 68.58 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "10nF"
-			(at 68.58 55.8735 0)
+			(at 68.58 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
+		(property "Footprint" "APRL_Passive:C_1206"
 			(at 66.04 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8090,7 +8090,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 151.13 166.37 90)
+		(at 149.86 161.29 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8100,7 +8100,7 @@
 		(dnp no)
 		(uuid "959c9d48-5cc5-4b24-a8e8-d13d2d6ab0bc")
 		(property "Reference" "R30"
-			(at 145.288 165.1 90)
+			(at 144.018 160.02 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8111,7 +8111,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 153.162 164.846 90)
+			(at 151.892 159.766 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8122,7 +8122,7 @@
 			)
 		)
 		(property "Footprint" "APRL_Passive:R_0603"
-			(at 151.13 166.37 0)
+			(at 149.86 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8133,7 +8133,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 166.37 0)
+			(at 149.86 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8144,7 +8144,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 151.13 166.37 0)
+			(at 149.86 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8155,7 +8155,7 @@
 			)
 		)
 		(property "MPN" "RT0603BRD074K7L"
-			(at 151.13 166.37 90)
+			(at 149.86 161.29 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8166,7 +8166,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Yageo"
-			(at 151.13 166.37 90)
+			(at 149.86 161.29 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8204,25 +8204,25 @@
 		(fields_autoplaced yes)
 		(uuid "9906f22b-5290-42d2-9b26-d635f9354623")
 		(property "Reference" "C45"
-			(at 119.38 26.6635 0)
+			(at 119.38 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1nF"
-			(at 119.38 29.2035 0)
+			(at 119.38 29.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
@@ -8297,7 +8297,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 158.75 162.56 180)
+		(at 157.48 157.48 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8308,7 +8308,7 @@
 		(fields_autoplaced yes)
 		(uuid "99b8ef85-3096-4715-9018-29a9f0cd1e36")
 		(property "Reference" "C48"
-			(at 161.29 161.2835 0)
+			(at 160.02 156.2035 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8319,7 +8319,7 @@
 			)
 		)
 		(property "Value" "1nF"
-			(at 161.29 163.8235 0)
+			(at 160.02 158.7435 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8330,7 +8330,7 @@
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
-			(at 158.75 162.56 0)
+			(at 157.48 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8341,7 +8341,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 162.56 0)
+			(at 157.48 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8352,7 +8352,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 158.75 162.56 0)
+			(at 157.48 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8363,7 +8363,7 @@
 			)
 		)
 		(property "MPN" "GRM1885C1H102FA01"
-			(at 158.75 162.56 0)
+			(at 157.48 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8374,7 +8374,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Murata"
-			(at 158.75 162.56 0)
+			(at 157.48 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9039,7 +9039,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 143.51 163.83 0)
+		(at 142.24 158.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9050,7 +9050,7 @@
 		(fields_autoplaced yes)
 		(uuid "b229665e-b67f-4611-827a-74936ffda514")
 		(property "Reference" "#PWR083"
-			(at 143.51 167.64 0)
+			(at 142.24 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9061,7 +9061,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 143.51 158.75 0)
+			(at 142.24 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9071,7 +9071,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 163.83 0)
+			(at 142.24 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9082,7 +9082,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 163.83 0)
+			(at 142.24 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9093,7 +9093,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 143.51 163.83 0)
+			(at 142.24 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9310,28 +9310,28 @@
 		(fields_autoplaced yes)
 		(uuid "b5d2b964-e4bb-4649-9b50-dd5ef8ce9ee4")
 		(property "Reference" "C39"
-			(at 120.65 74.9235 0)
+			(at 120.65 74.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "10nF"
-			(at 120.65 77.4635 0)
+			(at 120.65 77.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
+		(property "Footprint" "APRL_Passive:C_1206"
 			(at 118.11 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9782,7 +9782,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 158.75 181.61 0)
+		(at 157.48 176.53 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9793,7 +9793,7 @@
 		(fields_autoplaced yes)
 		(uuid "bde77ca0-893e-4f8d-ad1b-bfc3ef79df9c")
 		(property "Reference" "#PWR072"
-			(at 158.75 187.96 0)
+			(at 157.48 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9804,7 +9804,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 158.75 186.69 0)
+			(at 157.48 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9815,7 +9815,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 181.61 0)
+			(at 157.48 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9826,7 +9826,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 181.61 0)
+			(at 157.48 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9837,7 +9837,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 158.75 181.61 0)
+			(at 157.48 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9872,28 +9872,28 @@
 		(fields_autoplaced yes)
 		(uuid "bf9b938f-e61b-4aab-834e-aff1f7136e68")
 		(property "Reference" "C56"
-			(at 68.58 140.9635 0)
+			(at 68.58 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "10nF"
-			(at 68.58 143.5035 0)
+			(at 68.58 143.5099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
+		(property "Footprint" "APRL_Passive:C_1206"
 			(at 66.04 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -10880,7 +10880,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 160.02 170.18 180)
+		(at 158.75 165.1 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10891,7 +10891,7 @@
 		(fields_autoplaced yes)
 		(uuid "d9c518bd-8a51-43b2-b2b2-153c95905fce")
 		(property "Reference" "C50"
-			(at 162.56 168.9035 0)
+			(at 161.29 163.8235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10902,7 +10902,7 @@
 			)
 		)
 		(property "Value" "10nF"
-			(at 162.56 171.4435 0)
+			(at 161.29 166.3635 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10912,8 +10912,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
-			(at 160.02 170.18 0)
+		(property "Footprint" "APRL_Passive:C_1206"
+			(at 158.75 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10924,7 +10924,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 170.18 0)
+			(at 158.75 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10935,7 +10935,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 160.02 170.18 0)
+			(at 158.75 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10946,7 +10946,7 @@
 			)
 		)
 		(property "MPN" "GRM1885C1H103JA01"
-			(at 160.02 170.18 0)
+			(at 158.75 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10957,7 +10957,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Murata"
-			(at 160.02 170.18 0)
+			(at 158.75 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10995,25 +10995,25 @@
 		(fields_autoplaced yes)
 		(uuid "da710482-477a-4435-8b57-da1e85612954")
 		(property "Reference" "C52"
-			(at 119.38 125.7235 0)
+			(at 119.38 125.7299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1nF"
-			(at 119.38 128.2635 0)
+			(at 119.38 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
@@ -11099,25 +11099,25 @@
 		(fields_autoplaced yes)
 		(uuid "e1f18b40-f9d3-4771-b312-6b4c64f22a96")
 		(property "Reference" "C54"
-			(at 67.31 148.5835 0)
+			(at 67.31 148.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1nF"
-			(at 67.31 151.1235 0)
+			(at 67.31 151.1299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
@@ -11392,28 +11392,28 @@
 		(fields_autoplaced yes)
 		(uuid "e73f3920-82cc-4b75-a00b-f9bef90a68ae")
 		(property "Reference" "C35"
-			(at 68.58 95.2435 0)
+			(at 68.58 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "10nF"
-			(at 68.58 97.7835 0)
+			(at 68.58 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
+		(property "Footprint" "APRL_Passive:C_1206"
 			(at 66.04 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -11575,25 +11575,25 @@
 		(fields_autoplaced yes)
 		(uuid "f57b8fc8-55de-4a64-ae5d-e6a78f27f2ae")
 		(property "Reference" "C42"
-			(at 67.31 45.7135 0)
+			(at 67.31 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1nF"
-			(at 67.31 48.2535 0)
+			(at 67.31 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
@@ -11758,25 +11758,25 @@
 		(fields_autoplaced yes)
 		(uuid "fc12458d-3c2d-4f72-83ed-0bebad753cf9")
 		(property "Reference" "C51"
-			(at 119.38 110.4835 0)
+			(at 119.38 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1nF"
-			(at 119.38 113.0235 0)
+			(at 119.38 113.0299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "APRL_Passive:C_0603"
@@ -11862,28 +11862,28 @@
 		(fields_autoplaced yes)
 		(uuid "fe89d6bc-b619-4e3a-8ef4-b9e377aa3fd8")
 		(property "Reference" "C47"
-			(at 120.65 34.2835 0)
+			(at 120.65 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "10nF"
-			(at 120.65 36.8235 0)
+			(at 120.65 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
+		(property "Footprint" "APRL_Passive:C_1206"
 			(at 118.11 35.56 0)
 			(hide yes)
 			(show_name no)

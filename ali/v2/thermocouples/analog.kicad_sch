@@ -4694,7 +4694,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
+		(property "Footprint" "APRL_Passive:C_1206"
 			(at 107.95 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -5475,7 +5475,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
+		(property "Footprint" "APRL_Passive:C_1206"
 			(at 67.31 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -6431,7 +6431,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
+		(property "Footprint" "APRL_Passive:C_1206"
 			(at 107.95 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -6717,7 +6717,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
+		(property "Footprint" "APRL_Passive:C_1206"
 			(at 68.58 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -7343,7 +7343,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
+		(property "Footprint" "APRL_Passive:C_1206"
 			(at 67.31 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10363,7 +10363,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "APRL_Passive:C_0603"
+		(property "Footprint" "APRL_Passive:C_1206"
 			(at 107.95 34.29 0)
 			(hide yes)
 			(show_name no)

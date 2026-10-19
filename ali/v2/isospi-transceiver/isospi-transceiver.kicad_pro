@@ -76,7 +76,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "drill_out_of_range|152462500|78465000|55aa5c27-e2a2-4f6c-a92b-2d14280899ef|00000000-0000-0000-0000-000000000000",
+          "Part of recommended footprint"
+        ]
+      ],
       "meta": {
         "version": 2
       },

@@ -202,6 +202,16 @@
 	)
 	(wire
 		(pts
+			(xy 171.45 133.35) (xy 176.53 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7532c351-6412-4e9d-b6dd-4e7512b7cd12")
+	)
+	(wire
+		(pts
 			(xy 104.14 160.02) (xy 107.95 160.02)
 		)
 		(stroke
@@ -219,6 +229,26 @@
 			(type default)
 		)
 		(uuid "a14027f7-7237-48be-a9e2-21d5a7ef3c7e")
+	)
+	(wire
+		(pts
+			(xy 171.45 130.81) (xy 176.53 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a15e149a-ae61-4583-bc5a-018c019d6816")
+	)
+	(wire
+		(pts
+			(xy 171.45 135.89) (xy 176.53 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a87ed34c-53b3-48c4-9f44-68aed8170b2f")
 	)
 	(wire
 		(pts
@@ -269,6 +299,16 @@
 			(type default)
 		)
 		(uuid "f486bc0f-6f99-498b-a8d9-b36a413758d5")
+	)
+	(wire
+		(pts
+			(xy 171.45 128.27) (xy 176.53 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fae42a27-93a7-4699-ad49-547a356e2f9e")
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
@@ -830,6 +870,46 @@
 				(justify left)
 			)
 		)
+		(pin "SCK" output
+			(at 171.45 128.27 0)
+			(uuid "e16cf0af-ea5a-4caa-bee4-56ba1a69eaa2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MISO" input
+			(at 171.45 133.35 0)
+			(uuid "15052056-31b0-4b44-aaf2-bf54232eb43b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{CS}" output
+			(at 171.45 130.81 0)
+			(uuid "de5beef2-b7a0-4ab0-9100-c5bbf9785d42")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOSI" output
+			(at 171.45 135.89 0)
+			(uuid "35c64fc3-1240-45e2-b57c-46814bcd5d9f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "isospi-transceiver"
 				(path "/0eb5ae8a-84ea-4b7e-bec4-bb4e0217d666"
@@ -874,6 +954,46 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "SCK" input
+			(at 176.53 128.27 180)
+			(uuid "ac9d500e-b85a-4a34-9924-2e47b1848400")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{CS}" input
+			(at 176.53 130.81 180)
+			(uuid "dc881cd2-c347-463a-84ca-231e564342f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MISO" output
+			(at 176.53 133.35 180)
+			(uuid "f103d9e4-f10d-4ef5-84a5-a79856eb192e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MOSI" input
+			(at 176.53 135.89 180)
+			(uuid "90ee694d-3f65-4603-9b73-91bcb67578c5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances

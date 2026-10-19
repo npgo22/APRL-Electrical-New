@@ -103,4 +103,15 @@
 		(uuid "b4b552b3-106c-4759-9b31-fc164fe2668c")
 	)
 	(embedded_fonts no)
+	(model "${APRL_LIBS}/models/MLT-7525.step"
+		(offset
+			(xyz 3.795 -2.98 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

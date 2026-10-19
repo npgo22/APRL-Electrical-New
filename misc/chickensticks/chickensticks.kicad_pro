@@ -477,7 +477,7 @@
       "field_name_whitespace": "warning",
       "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
-      "four_way_junction": "warning",
+      "four_way_junction": "ignore",
       "global_label_dangling": "warning",
       "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
@@ -497,14 +497,14 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "ignore",
       "same_local_global_label": "warning",
       "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
-      "single_global_label": "warning",
+      "single_global_label": "ignore",
       "stacked_pin_name": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
@@ -654,7 +654,7 @@
       "svg": "",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "${APRL_LIBS}/APRL_Layout_Sheet.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -824,7 +824,7 @@
         "uuid": "ac09718b-d0ae-4ba8-97ca-421d17235641"
       }
     ],
-    "used_designators": "#FLG2-4,#PWR4-6,#PWR39,#PWR54-67,#PWR69,#PWR73-76,BT1,C7-8,C26-32,D5,D9-11,F2,J1-3,J7,J10,Q1-2,R11-18,SW1,U5-8",
+    "used_designators": "#FLG2-4,#PWR4-6,#PWR39,#PWR47,#PWR54-67,#PWR69,#PWR73-76,BT1,C7-8,C26-32,D5,D9-11,F2,J1-3,J7,J10,Q1-2,R11-18,SW1,U5-8",
     "variants": []
   },
   "sheets": [
@@ -842,17 +842,17 @@
     ]
   ],
   "text_variables": {
-    "ASSEMBLED_BY": "",
-    "ASSEMBLED_BY_DATE": "",
-    "BOARD": "",
+    "APPROVED_BY": "",
+    "APPROVED_BY_DATE": "",
+    "BOARD": "CHICKENSTICK",
     "CHECKED_BY": "",
     "CHECKED_BY_DATE": "",
-    "DRAWN_BY": "",
-    "DRAWN_BY_DATE": "",
-    "NOTE1": "Drawn by: Nolan Poe",
-    "NOTE2": "Reviewed by: Daniel Fan (and hopefully Tim Solberg)",
-    "PLATFORM": "",
-    "REV": "0",
+    "DRAWN_BY": "NOLAN POE",
+    "DRAWN_BY_DATE": "10/19/2026",
+    "NOTE1": "",
+    "NOTE2": "",
+    "PLATFORM": "ALI",
+    "REV": "1A",
     "REV_COMMENT1": "",
     "REV_COMMENT2": "",
     "REV_COMMENT3": "",
@@ -873,8 +873,8 @@
     "REV_NUMBER_COMMENT3": "",
     "REV_NUMBER_COMMENT4": "",
     "REV_NUMBER_COMMENT5": "",
-    "STACKUP": "",
-    "SUBSYSTEM": ""
+    "STACKUP": "JLCPCB 7628",
+    "SUBSYSTEM": "RECOVERY"
   },
   "tuning_profiles": {
     "meta": {

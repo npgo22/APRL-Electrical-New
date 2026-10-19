@@ -154,15 +154,15 @@
 	)
 	(property "APPROVED_BY" "")
 	(property "APPROVED_BY_DATE" "")
-	(property "BOARD" "")
+	(property "BOARD" "ISOSPI TRANSCEIVER")
 	(property "CHECKED_BY" "")
 	(property "CHECKED_BY_DATE" "")
-	(property "DRAWN_BY" "")
-	(property "DRAWN_BY_DATE" "")
-	(property "NOTE1" "")
+	(property "DRAWN_BY" "NOLAN POE")
+	(property "DRAWN_BY_DATE" "10/19/2026")
+	(property "NOTE1" "FQ 2026 ALI UPGRADE")
 	(property "NOTE2" "")
 	(property "PLATFORM" "ALI")
-	(property "REV" "")
+	(property "REV" "2A")
 	(property "REV_COMMENT1" "")
 	(property "REV_COMMENT2" "")
 	(property "REV_COMMENT3" "")
@@ -583,6 +583,17 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Diodes Inc."
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "cff9fac6-9352-4f16-9e38-8b560c40c940")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6893,6 +6904,17 @@
 				)
 			)
 		)
+		(property "MANUFACTURER" "Pulse Electronics"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5e2be5fd-962f-44fb-8b29-4f880011b8be")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property ki_fp_filters "Transformer*Ethernet*HX1188*")
 		(path "/6295a698-6e5b-4060-a36d-271842cbc00f/90fe23b4-ac4d-4ed2-98af-bba9a4d81b07")
 		(sheetname "/isoSPI/")
@@ -12152,6 +12174,17 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Phoenix Contact"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "f2f7ef5f-d88f-41cb-b147-23c93d2bdde0")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)

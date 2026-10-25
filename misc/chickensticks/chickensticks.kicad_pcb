@@ -3283,7 +3283,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${APRL_LIBS}/models/OSC-SMD_4P-L2.5-W2.0-BL.step"
+		(model "${KIPRJMOD}/../../kicadlibs/models/OSC-SMD_4P-L2.5-W2.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5818,7 +5818,7 @@
 			(uuid "289367d5-e9d5-434f-afb1-bcaaf32df281")
 		)
 		(embedded_fonts no)
-		(model "${APRL_LIBS}/models/132203-12.stp"
+		(model "${KIPRJMOD}/../../kicadlibs/models/132203-12.stp"
 			(offset
 				(xyz 0 0 -4)
 			)
@@ -7778,7 +7778,7 @@
 			(uuid "effbf1e2-33f1-4bcc-bc37-50d08a8f4fcd")
 		)
 		(embedded_fonts no)
-		(model "${APRL_LIBS}/models/s02-25200300.step"
+		(model "${KIPRJMOD}/../../kicadlibs/models/s02-25200300.step"
 			(offset
 				(xyz 0 0 3.5)
 			)
@@ -7789,7 +7789,7 @@
 				(xyz 90 -180 -90)
 			)
 		)
-		(model "${APRL_LIBS}/models/s0981-46r.step"
+		(model "${KIPRJMOD}/../../kicadlibs/models/s0981-46r.step"
 			(offset
 				(xyz 12.5 10 0)
 			)
@@ -7800,7 +7800,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "${APRL_LIBS}/models/s0981-46r.step"
+		(model "${KIPRJMOD}/../../kicadlibs/models/s0981-46r.step"
 			(offset
 				(xyz -12.5 -10 0)
 			)
@@ -7811,7 +7811,7 @@
 				(xyz 90 -180 -0)
 			)
 		)
-		(model "${APRL_LIBS}/models/s0981-46r.step"
+		(model "${KIPRJMOD}/../../kicadlibs/models/s0981-46r.step"
 			(offset
 				(xyz -12.5 10 0)
 			)
@@ -7822,7 +7822,7 @@
 				(xyz -90 -0 -90)
 			)
 		)
-		(model "${APRL_LIBS}/models/s0981-46r.step"
+		(model "${KIPRJMOD}/../../kicadlibs/models/s0981-46r.step"
 			(offset
 				(xyz 12.5 -10 0)
 			)
@@ -8072,7 +8072,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${APRL_LIBS}/models/SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6-2.step"
+		(model "${KIPRJMOD}/../../kicadlibs/models/SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6-2.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11944,7 +11944,7 @@
 			(uuid "3fcb8c87-9b61-4290-b471-dc15f93cf275")
 		)
 		(embedded_fonts no)
-		(model "${APRL_LIBS}/models/MLT-7525.step"
+		(model "${KIPRJMOD}/../../kicadlibs/models/MLT-7525.step"
 			(offset
 				(xyz 3.795 -2.98 0)
 			)

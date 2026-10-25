@@ -1,0 +1,9 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "APRL_Analog") (type "KiCad") (uri "${KIPRJMOD}/../../../kicadlibs/aprl/APRL_Analog.kicad_sym") (options "") (descr ""))
+	(lib (name "APRL_Comms") (type "KiCad") (uri "${KIPRJMOD}/../../../kicadlibs/aprl/APRL_Comms.kicad_sym") (options "") (descr ""))
+	(lib (name "APRL_Connector") (type "KiCad") (uri "${KIPRJMOD}/../../../kicadlibs/aprl/APRL_Connector.kicad_sym") (options "") (descr ""))
+	(lib (name "APRL_MCU") (type "KiCad") (uri "${KIPRJMOD}/../../../kicadlibs/aprl/APRL_MCU.kicad_sym") (options "") (descr ""))
+	(lib (name "APRL_Misc") (type "KiCad") (uri "${KIPRJMOD}/../../../kicadlibs/aprl/APRL_Misc.kicad_sym") (options "") (descr ""))
+	(lib (name "APRL_Power") (type "KiCad") (uri "${KIPRJMOD}/../../../kicadlibs/aprl/APRL_Power.kicad_sym") (options "") (descr ""))
+)

@@ -597,7 +597,7 @@
 		(uuid "ac43b79b-922a-4412-b7ec-4ca0500d2bf0")
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/WQFN-32_L4.0-W4.0-P0.40-TL-EP2.7.step"
+	(model "../../models/WQFN-32_L4.0-W4.0-P0.40-TL-EP2.7.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -208,7 +208,7 @@
 		(uuid "24f0113e-c1d7-44b5-9ed5-e98a0954d12f")
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/Oscillator_SCTF_SX3M_3.2x2.5mm.step"
+	(model "../../models/Oscillator_SCTF_SX3M_3.2x2.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

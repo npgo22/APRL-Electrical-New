@@ -111,7 +111,7 @@
 		(uuid "1c5f488a-bea8-4071-a286-cc2d6baafa4f")
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/Fuse_1812L_Littelfuse.step"
+	(model "../../models/Fuse_1812L_Littelfuse.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -294,7 +294,7 @@
 		(uuid "0ae317e6-91e7-4c95-92b5-8b823ee232f6")
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/RJ45-TH_HY951180A.step"
+	(model "../../models/RJ45-TH_HY951180A.step"
 		(offset
 			(xyz 0 0.7 0)
 		)

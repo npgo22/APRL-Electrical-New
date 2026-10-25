@@ -257,7 +257,7 @@
 		(uuid "d9950c66-959b-497b-8cc8-a693293b4439")
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/UCC33420-Q1_VSON-12.step"
+	(model "../../models/UCC33420-Q1_VSON-12.step"
 		(offset
 			(xyz 0 0 0)
 		)

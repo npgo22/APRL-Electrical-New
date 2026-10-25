@@ -282,7 +282,7 @@
 		(uuid "54c0c26a-b04e-4cd0-bb91-1eadae666817")
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/HX1188NL.step"
+	(model "../../models/HX1188NL.step"
 		(offset
 			(xyz 0 0 0)
 		)

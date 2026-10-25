@@ -6,11 +6,10 @@ APRL KiCad Projects.
 First, clone the repository with `git clone`. GitHub has a button which gives you the command to do this.
 Then, you will have to use `git lfs pull` to get all the 3D models and images.
 
-The projects here rely on `APRL_LIBS` and `KICAD_USER_TEMPLATE_DIR` being set. You can do this by:
+To use the board templates, set `KICAD_USER_TEMPLATE_DIR` by:
 
 1. Going to Preferences > Configure Paths...
-2. Setting `APRL_LIBS` to wherever you cloned this repo + `/kicadlibs`.
-3. Setting `KICAD_USER_TEMPLATE_DIR` to whatever you set in (2) + `/templates`
+2. Setting `KICAD_USER_TEMPLATE_DIR` to wherever you cloned this repo + `/kicadlibs/templates`
 
 ![Screenshot of the environment variables being set](./doc/env_vars.png)
 
@@ -53,7 +52,7 @@ Each of the modules will have a CAN transceiver anyway available for testing.
 ## Repository layout
 
 ```
-kicadlibs/                                 Shared KiCad libraries, referenced as ${APRL_LIBS}
+kicadlibs/                                 Shared KiCad libraries
   aprl/                                      APRL's custom symbols and footprints
   aprl/*-noct.pretty                         "aprl/" but without courtyards
   vendor/                                    Third-party libs
@@ -63,10 +62,10 @@ kicadlibs/                                 Shared KiCad libraries, referenced as
 .github/scripts                              Helper scripts runnable via Just and GH actions
 
 
-ali/v2/                                    New ALI electronics
-ali/v1/                                    Old ALI electronics
+ali/2/                                     New ALI electronics
+ali/1/                                     Old ALI electronics
 ophio/                                     DPF Vehicle Boards
-misc/                                      Other endeavours
+misc/                                      Other endeavors
 ```
 
 

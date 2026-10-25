@@ -293,7 +293,7 @@
 		(uuid "dffd6955-3e72-41b7-b216-0de1b20528ea")
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/CP_Elec_8x12.2_KEMET_A767_KS.step"
+	(model "../../models/CP_Elec_8x12.2_KEMET_A767_KS.step"
 		(offset
 			(xyz 0 0 0)
 		)

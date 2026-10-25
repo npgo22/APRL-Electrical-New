@@ -53,7 +53,7 @@ __pycache__/
 **/*.venv
 
 # KiCad creates a "default" template wherever KICAD_USER_TEMPLATE_DIR points
-ali/v2/default/
+ali/2/default/
 
 # Secret Nolan stuff
 do-not-include/

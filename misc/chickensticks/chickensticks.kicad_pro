@@ -654,7 +654,7 @@
       "svg": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "${APRL_LIBS}/APRL_Layout_Sheet.kicad_wks"
+    "page_layout_descr_file": "${KIPRJMOD}/../../kicadlibs/APRL_Layout_Sheet.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -805,7 +805,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "${APRL_LIBS}/APRL_Schematic_Sheet.kicad_wks",
+    "page_layout_descr_file": "${KIPRJMOD}/../../kicadlibs/APRL_Schematic_Sheet.kicad_wks",
     "plot_directory": "",
     "reuse_designators": true,
     "space_save_all_events": true,

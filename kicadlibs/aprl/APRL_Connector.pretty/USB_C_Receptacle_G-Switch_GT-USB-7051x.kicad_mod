@@ -716,7 +716,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/USB-C-SMD_GT-USB-7051A.step"
+	(model "../../models/USB-C-SMD_GT-USB-7051A.step"
 		(offset
 			(xyz 0 0 5.775)
 		)

@@ -238,7 +238,7 @@
 		(uuid "210c2693-1b0a-40f3-8d9a-5398b7faeb07")
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/PCC-SMP-V-K.step"
+	(model "../../models/PCC-SMP-V-K.step"
 		(offset
 			(xyz -1.7 -16.7 8)
 		)

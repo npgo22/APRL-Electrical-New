@@ -223,7 +223,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/mps_dcdc_nxe2s_mc_a.step"
+	(model "../../models/mps_dcdc_nxe2s_mc_a.step"
 		(offset
 			(xyz 0 0 0)
 		)

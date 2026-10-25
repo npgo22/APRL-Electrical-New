@@ -1,0 +1,13 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "APRL_Connector") (type "KiCad") (uri "${KIPRJMOD}/../../aprl/APRL_Connector.pretty") (options "") (descr ""))
+	(lib (name "APRL_Connector_Molex") (type "KiCad") (uri "${KIPRJMOD}/../../aprl/APRL_Connector_Molex.pretty") (options "") (descr ""))
+	(lib (name "APRL_Graphic") (type "KiCad") (uri "${KIPRJMOD}/../../aprl/APRL_Graphic.pretty") (options "") (descr ""))
+	(lib (name "APRL_Misc") (type "KiCad") (uri "${KIPRJMOD}/../../aprl/APRL_Misc.pretty") (options "") (descr ""))
+	(lib (name "APRL_Module") (type "KiCad") (uri "${KIPRJMOD}/../../aprl/APRL_Module.pretty") (options "") (descr ""))
+	(lib (name "APRL_Package") (type "KiCad") (uri "${KIPRJMOD}/../../aprl/APRL_Package.pretty") (options "") (descr ""))
+	(lib (name "APRL_Package_QFN") (type "KiCad") (uri "${KIPRJMOD}/../../aprl/APRL_Package_QFN.pretty") (options "") (descr ""))
+	(lib (name "APRL_Passive") (type "KiCad") (uri "${KIPRJMOD}/../../aprl/APRL_Passive.pretty") (options "") (descr ""))
+	(lib (name "Omega") (type "KiCad") (uri "${KIPRJMOD}/../../vendor/Omega.pretty") (options "") (descr ""))
+	(lib (name "Vendor") (type "KiCad") (uri "${KIPRJMOD}/../../vendor/Vendor.pretty") (options "") (descr ""))
+)

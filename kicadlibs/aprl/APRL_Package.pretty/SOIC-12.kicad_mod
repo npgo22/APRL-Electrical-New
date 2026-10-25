@@ -198,7 +198,7 @@
 		(uuid "e26faa15-a387-4223-b7fd-52b975e84b0a")
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/SOP-12_L5.6-W4.4-P0.80-LS7.0-BL.step"
+	(model "../../models/SOP-12_L5.6-W4.4-P0.80-LS7.0-BL.step"
 		(offset
 			(xyz 0 0 1.3)
 		)

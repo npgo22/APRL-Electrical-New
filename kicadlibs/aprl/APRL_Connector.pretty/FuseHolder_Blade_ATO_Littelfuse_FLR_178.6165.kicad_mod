@@ -260,7 +260,7 @@
 		(uuid "e751f14b-e4a6-49f0-b97f-b618af8aa2dc")
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/178.6165.0001.step"
+	(model "../../models/178.6165.0001.step"
 		(offset
 			(xyz 6.5 -1 0)
 		)

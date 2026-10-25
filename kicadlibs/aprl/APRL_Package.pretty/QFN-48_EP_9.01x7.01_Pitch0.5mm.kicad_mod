@@ -761,7 +761,7 @@
 		(uuid "cde1c706-81df-4181-91b5-34e77b2dd955")
 	)
 	(embedded_fonts no)
-	(model "${APRL_LIBS}/models/QFN-48_L8.0-W6.0-P0.50-TL-EP.step"
+	(model "../../models/QFN-48_L8.0-W6.0-P0.50-TL-EP.step"
 		(offset
 			(xyz 0 0 0)
 		)
